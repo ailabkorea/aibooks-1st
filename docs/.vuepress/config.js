@@ -1,7 +1,7 @@
 module.exports = {
   title: 'AI BOOKS',
   head: [
-    ['link', { rel: 'icon', href: 'images/hero.jpg' }]
+    ['link', { rel: 'icon', href: './logo2.png' }]
   ],
   description: 'AI 연구랩 활동보고서',
   themeConfig: {
