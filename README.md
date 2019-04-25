@@ -1,1 +1,6 @@
-# AI BOOKS 
+# AI BOOKS
+
+
+```
+yarn dev
+```
