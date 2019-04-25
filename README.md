@@ -1,6 +1,14 @@
 # AI BOOKS
 
 
+
+### install packages
+
+```bash
+$ yarn
 ```
-yarn dev
+
+### run dev server 
+```bash
+$ yarn dev
 ```
