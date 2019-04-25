@@ -1,0 +1,21 @@
+{
+  "name": "aibooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "now-build": "npm run build && mv docs/.vuepress/dist dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  },
+  "dependencies": {
+    "global": "^4.3.2",
+    "now": "^15.0.7-canary.5"
+  }
+}
