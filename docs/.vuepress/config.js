@@ -21,6 +21,10 @@ module.exports = {
             link: '/books/CD랩/'
           },
           {
+            text: '아트플로우',
+            link: '/books/아트플로우/'
+          },
+          {
             text: 'MIT',
             link: '/books/MIT/'
           },
