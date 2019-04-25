@@ -10,10 +10,12 @@ https://github.com/ailabkorea/aibooks-1st
 2. 본인 랩의 md 파일 수정
 ```
 books/
-  달랭이
   맥락
   CD랩
+  아트플로우
   MIT
+  달팽이
+
 ```
 
 3. git push
